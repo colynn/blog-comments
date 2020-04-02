@@ -1,3 +1,3 @@
 # colynn's blog comments
 
- > Work with [gittalk](https://github.com/gitalk/gitalk)
+ > Work with [utterances](https://github.com/utterance/utterances)
